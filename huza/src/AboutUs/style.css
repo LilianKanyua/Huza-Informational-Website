@@ -1,0 +1,26 @@
+.divs{
+    margin-top: 50%;
+    display: flex;
+    gap: 24%;
+    background-color:#273F36;
+    margin-bottom: 10%;
+    height: 572px;
+
+    
+
+   
+}
+.phon{
+margin-left: 8%;
+height: 700px;
+margin-top: -7%;
+
+}
+.about{
+   
+    margin-top: 8%;
+    color: white;
+    font-size: larger;
+    
+
+}
