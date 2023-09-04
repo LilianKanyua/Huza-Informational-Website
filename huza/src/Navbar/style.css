@@ -1,5 +1,4 @@
 .navbar{
-    /* margin-left: 20%; */
     display: flex;
     margin-top: 5%;
     margin-bottom: 8%;
@@ -27,7 +26,7 @@
 .logo{
     height: 10%;
     width: 10%;
-    margin-left: 4%;
+    margin-left: 5%;
 }
 .navbar img :hover{
     background-color: none;
@@ -39,10 +38,10 @@
 h5{
     color: rgb(255, 255, 255);
     font-size: 18px;
-    margin-top: 15%;
+    margin-top: 1%;
 }
 .introduction{
-    margin-left: 5%;
+    margin-left: 6%;
 }
 h3{
     font-size: 18px;
@@ -56,21 +55,6 @@ h3{
     background-repeat: no-repeat;
     height: 900px;
     background-blend-mode: multiply;
-  }
-  .icons-icons{
-    margin-left: 12%;
-    margin-bottom: 12%;
-  }
-  .phone-icon{
-    margin-left: 33%;
-    height: 450px;
-    margin-top:2% ;
-  }
-  .hr{
-    margin-top: -0.5%;
-    height: 10px;
-    background-color: rgb(16, 36, 6);
-  }
-  .nav{
-    margin-bottom: 12%;
+    margin-top: -5%;
+    margin-bottom: 6%;
   }
